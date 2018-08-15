@@ -1,0 +1,11 @@
+{
+    "trello_key":"",
+    "trello_token":"",
+    "telegram_key":"",
+    "telegram_chat_id":"",
+    "board":{
+        "member_count_id":"",
+        "board_id":"",
+        "poll_list_name":""
+    }
+}
